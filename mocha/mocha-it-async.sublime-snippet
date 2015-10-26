@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+it('${1:should}', (done) => {
+	expect(${2});
+	done();
+});
+]]></content>
+	<tabTrigger>mocha-it-async</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

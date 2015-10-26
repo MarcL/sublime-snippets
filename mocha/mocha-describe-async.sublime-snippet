@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+describe('${1}', (done) => {
+	done();
+});
+]]></content>
+	<tabTrigger>mocha-describe-async</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

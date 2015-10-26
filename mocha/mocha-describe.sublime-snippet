@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+describe('${1}', () => {
+});
+]]></content>
+	<tabTrigger>mocha-describe</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
