@@ -8,7 +8,10 @@ Most of the JavaScript snippets use ES6 as that's what I'm primarily writing at 
 
 To install the snippets simply clone the repository into your Sublime Text 3 `Packages` directory:
 
-`cd ~/Library/Application Support/Sublime Text 3/Packages/User && git clone git@github.com:MarcL/sublime-snippets.git`
+```
+cd ~/Library/Application Support/Sublime Text 3/Packages/User
+git clone git@github.com:MarcL/sublime-snippets.git
+```
 
 ## Usage
 
